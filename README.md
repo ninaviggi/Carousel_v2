@@ -1,6 +1,6 @@
 # Carousel_v2
 
-It took me about 28 hours. Started over multiple times, dissected other people's codes, worked alongside classmates, 
+It took me about 18 hours. Started over multiple times, dissected other people's codes, worked alongside classmates, 
 rewatched many demos.Still a bit slow but slowly getting the hang of it. 
 
 Completed: 
